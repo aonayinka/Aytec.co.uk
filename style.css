@@ -333,7 +333,6 @@ p{
 .footerNav ul li a:hover{
     opacity: 1;
 }
-
 .footerBottom{
     background-color: #000;
     padding: 20px;
@@ -353,6 +352,5 @@ p{
         width: 100%;
         text-align: center;
         margin: 10px;
-
     }
 }
