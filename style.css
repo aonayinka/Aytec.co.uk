@@ -140,7 +140,27 @@ button:hover {
 
 }
 
+/*---Servies---*/
+.service_section {
+    position: relative;
+    display: flexbox;
+    flex-direction: row;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*---Experinece1---*/
+
 .Experinece1{
     width: 80%;
     margin: auto;
